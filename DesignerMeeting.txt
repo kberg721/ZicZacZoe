@@ -1,0 +1,4 @@
+HangMan - Eryn: Implemented hangman in c++.
+
+Celebrity Guess Game - Mansa: You get a blurred image of a celebrity and have to guess who the celebrity is. 
+You get points based on whether you are correct. It was coded in HTML, CSS, and Javascript.
